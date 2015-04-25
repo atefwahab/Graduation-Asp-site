@@ -65,6 +65,12 @@ body{
     .search{
       margin-top: 5px;
     }
+.search p{
+      color: #ff0000;
+      font-weight: bold;
+     font-size: 12px;
+     margin-top: 5%;
+    }
     .InputForm:nth-child(1) {
       margin-bottom: 5px;
       
